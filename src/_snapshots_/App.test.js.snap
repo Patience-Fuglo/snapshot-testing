@@ -37,7 +37,7 @@ exports[`renders a snapshot 1`] = `
     <img
       alt="picture of myself"
       className="card-img-top"
-      src="Omoreta.jpg"
+      src="Pattie.jpg"
     />
     <div
       className="card-body"
